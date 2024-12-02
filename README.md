@@ -55,7 +55,7 @@ we provide text-to-image LoRA candidates trained on DreamBooth dataset.
 
 * DreamBooth Dataset Link:  https://github.com/google/dreambooth
 
-Or you can download our candidates directly from [Hugging Face](https://huggingface.co/collections/YUSHUIWX/mixture-of-lora-experts-67239ad28cb487fa22a0bd74).
+Or you can download our candidates directly from [Hugging Face](https://huggingface.co/collections/YUSHUIWX2/mixture-of-lora-experts-67239ad28cb487fa22a0bd74).
 
 ---
 
